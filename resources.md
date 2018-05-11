@@ -7,5 +7,5 @@
 ## Important Papers:
 1. Examining Patterns of Influenza Vaccination in Social Media: http://cmci.colorado.edu/~mpaul/files/w3phi17_vaccines.pdf
 2. Influenza Forcasting: http://currents.plos.org/outbreaks/article/twitter-improves-influenza-forecasting/
-3. MASCELE SDADTE --> ASK MARK AGAIN for the correct name
+3. Marcel Salathé --> http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002199
 
