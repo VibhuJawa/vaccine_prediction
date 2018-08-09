@@ -8,14 +8,7 @@
     * Add google trends data to prediction features 
     * Add twitter data to prediction features
     
-## Complted:
+## Completed:
  * Download state wise /national data and try doing weekly predictions
  * Benchmarked Prediction  based on this years data for p weeks forward using data from the previous k weeks
  * Just using previous k weeks of HHS data to predict n weeks forward in time
-
-
-
-  
- 
- 
-
