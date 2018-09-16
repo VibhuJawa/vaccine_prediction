@@ -1,7 +1,13 @@
 # Influenze Vaccine Prediction
-This repo explores tweets trends like  and juxtaposes them with vaccination trends provided by HHS.
+This repo explores tweets trends such as:
+* flu_vaccine_received 
+* flu_vaccine_received_relevant_intent_to_receive	
+* flu_vaccine_received_relevant_positive_sentiment
+* flu_vaccine_relevant
+* flu_vaccine_relevant_intent_to_receive
 
-# Data Download
+This repo also juxtaposes them with vaccination trends provided by HHS.
+
 
 
 ## Things to do:
