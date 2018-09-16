@@ -1,4 +1,8 @@
 # Influenze Vaccine Prediction
+This repo explores tweets trends like  and juxtaposes them with vaccination trends provided by HHS.
+
+# Data Download
+
 
 ## Things to do:
  * Benchmark Prediction based on linear models just based on the HHS data 
